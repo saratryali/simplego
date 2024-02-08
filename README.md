@@ -1,0 +1,2 @@
+# simplego
+basic go app
